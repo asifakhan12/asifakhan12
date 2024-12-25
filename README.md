@@ -11,10 +11,9 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** passionate about bu
 - 💬 **Ask me about:** Full-stack development, generative AI, and cloud computing.
 
 ---
-
-<div align="center">
-  <h2>Welcome to the world of innovative development!</h2>
-</div>
+<p align="center">  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=3B82F6&center=true&vCenter=true&width=450&lines=Crafting+Innovative+Web+Applications!;Delving+Deep+Into+Generative+AI;Collaborating+to+Build+the+Future!" alt="Typing Animation">
+</p>
 
 ---
 
@@ -124,6 +123,7 @@ Welcome to my GitHub profile! I'm a **Full-Stack Developer** passionate about bu
 ---
 
 Thank you for visiting my profile! Together, let's shape the future of tech. 🌟
+
 
 
 
